@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\20140806_OK\wechat\Projects\ble\wechatIOT\Source\wechat_example\pb_example.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\WPI_11520_20140916_A01\wechat\Projects\ble\wechatIOT\Source\User.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\WPI_11520_20141001_A02\wechat\Projects\ble\wechatIOT\Source\User.c</path>
+    <encoding>Win-1252</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\WechatIOT20140807_OK\wechat\Projects\ble\wechatIOT\Source\wechat_example\pb_example.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\belta_201400905_A01\wechat\Projects\ble\wechatIOT\Source\User.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\belta_38400_201400909_A01\wechat\Projects\ble\wechatIOT\Source\User.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\wechat_AbelLee_20140804_test2\wechat\Projects\ble\wechatIOT\Source\wechat_example\pb_example.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\wechat_AbelLee_20140804_test3\wechat\Projects\ble\wechatIOT\Source\wechat_example\pb_example.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Documents and Settings\Administrator\&#x684C;&#x9762;\wechat_AbelLee_20140805_SendDoubleDataOK\wechat\Projects\ble\wechatIOT\Source\wechat_example\pb_example.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+

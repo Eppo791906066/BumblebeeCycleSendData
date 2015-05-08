@@ -1,0 +1,44 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=-821987025
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[array_types]
+Fmt0=uint8_t [72]	4	0
+[watch_formats]
+Fmt0={W}0:pushData	0	1
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$\..\..\..\..\Components\hal\target\CC2540EB\hal_key.c}.221.3" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\..\Source\wechat_example\pb_example.c}.810.13" 0 0 0 0 "" 0 ""
+Bp2=_ "STD_CODE" "{$PROJ_DIR$\..\Source\wechat_example\pb_example.c}.808.7" 0 0 0 0 "" 0 ""
+Count=3
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Aliases]
+A0=_ "C:\Documents and Settings\Administrator\\WPI_11520_20140916_A01\wechat\Components\osal\common\OSAL_Timers.c" "C:\Documents and Settings\Administrator\\WPI_11520_20141001_A02\wechat\Components\osal\common\OSAL_Timers.c"
+A1=_ "C:\Documents and Settings\Administrator\\WPI_11520_20140916_A01\wechat\Projects\ble\Profiles\Roles\gap.c" "C:\Documents and Settings\Administrator\\WPI_11520_20141001_A02\wechat\Projects\ble\Profiles\Roles\gap.c"
+A2=_ "C:\Documents and Settings\Administrator\\WPI_11520_20141001_A01\wechat\Projects\ble\wechatIOT\Source\crypt\aes\aes_cbc.c" "C:\Documents and Settings\Administrator\\WPI_11520_20141001_A02\wechat\Projects\ble\wechatIOT\Source\crypt\aes\aes_cbc.c"
+A3=_ "C:\Documents and Settings\Administrator\\WPI_11520_20141001_A02\wechat\Projects\ble\Profiles\Roles\gap.c" ""
+A4=_ "C:\Documents and Settings\Administrator\\belta_201400905_A01\wechat\Components\osal\common\OSAL_Timers.c" "C:\Documents and Settings\Administrator\\WPI_11520_20140916_A01\wechat\Components\osal\common\OSAL_Timers.c"
+A5=_ "H:\方案\解决方案\微信资料\微信开发板\大黄蜂开发板代码V0.2 _release\wechat\Projects\ble\wechatIOT\Source\wechat_example\pb_example.c" ""
+Count=6
+SuppressDialog=1

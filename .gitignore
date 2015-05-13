@@ -1,5 +1,5 @@
-.DStore
-/wechat/Projects/ble/wechatIOT/CC2541DB/CC2541 Slave/*
+.DS_Store
+/wechat/Projects/ble/wechatIOT/CC2541DB/CC2541_Slave/*
 !.gitignore
-!/wechat/Projects/ble/wechatIOT/CC2541DB/CC2541 Slave/Exe/*.hex
-!/wechat/Projects/ble/wechatIOT/CC2541DB/CC2541 Slave/Exe/*.bin
+!/wechat/Projects/ble/wechatIOT/CC2541DB/CC2541_Slave/Exe/*.hex
+!/wechat/Projects/ble/wechatIOT/CC2541DB/CC2541_Slave/Exe/*.bin

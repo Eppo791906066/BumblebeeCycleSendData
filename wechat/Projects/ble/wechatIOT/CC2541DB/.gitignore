@@ -1,0 +1,4 @@
+.DS_Store
+/CC2541 Slave/*
+!.gitignore
+!/CC2541 Slave/Exe/*.hex
